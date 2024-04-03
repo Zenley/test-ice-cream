@@ -85,7 +85,7 @@
 }
 
 .ice-cream p {
-    padding: 0 22px;
+    padding: 0 30px;
     color: white;
     font-family: var(--font-family);
     font-weight: 700;
@@ -134,7 +134,7 @@
 }
 
 .coffee p {
-    padding: 0 24px;
+    padding: 0 29px;
     color: white;
     font-family: var(--font-family);
     font-weight: 700;
@@ -188,3 +188,11 @@
 .milkshake h3 {
     margin-top: 20%;
 }
+
+.arrow:hover,
+.arrow:focus{
+    fill: #ffffff;
+    background: var(--strong-red);
+}
+
+
