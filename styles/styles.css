@@ -1,5 +1,5 @@
 :root {
-   
+
     --font-family: "DM Sans", sans-serif;
     --second-family: "Titan One", sans-serif;
     --strong-red: #d41443;
@@ -64,9 +64,9 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-gap: 60px;
-margin-right: 20px;
-margin-left: -20px;
+    gap: 60px;
+    margin-right: 20px;
+    margin-left: -20px;
 }
 
 .ice-cream {
@@ -135,11 +135,11 @@ margin-left: -20px;
 
 .coffee p {
     padding: 0 24px;
-        color: white;
-        font-family: var(--font-family);
-        font-weight: 700;
-        font-size: 14px;
-        letter-spacing: 1px;
+    color: white;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
 }
 
 .brew {
@@ -171,11 +171,11 @@ margin-left: -20px;
 
 .milkshake p {
     padding: 0 22px;
-        color: white;
-        font-family: var(--font-family);
-        font-weight: 700;
-        font-size: 14px;
-        letter-spacing: 1px;
+    color: white;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
 }
 
 .shake {
@@ -188,4 +188,3 @@ margin-left: -20px;
 .milkshake h3 {
     margin-top: 20%;
 }
-
