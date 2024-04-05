@@ -189,10 +189,11 @@
     margin-top: 20%;
 }
 
-.arrow:hover,
-.arrow:focus{
+.arrow:hover{
     fill: #ffffff;
     background: var(--strong-red);
 }
+
+
 
 
